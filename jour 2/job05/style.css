@@ -1,0 +1,14 @@
+body {
+    min-width: 4096px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #000; /* Couleur de fond initiale */
+    color: #fff; /* Couleur du texte */
+    text-align: center;
+    padding: 10px 0;
+}
